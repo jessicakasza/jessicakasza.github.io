@@ -23,10 +23,10 @@ repository               : "jessicakasza/jessicakasza.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "kasza.jpg"
+  name             : "Jessica Kasza"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Jessica Kasza is a Professor of biostatstics at Monash University. She leads the Cluster Cluster: a group of researchers involved in research on cluster randomised trials."
   location         : ""
   employer         : "Monash University"
   uri              : # URL
